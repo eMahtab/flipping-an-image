@@ -50,3 +50,10 @@ public int[][] flipAndInvertImage(int[][] A) {
     return A;
 }
 ```
+
+Above implementation have runtime complexity of O(r * c) and space complexity of O(1), where r is the number of rows in the input matrix and c is the number of columns in the input matrix.
+
+```
+Runtime Complexity = O(r * c)
+Space Complexity   = O(1)
+```
