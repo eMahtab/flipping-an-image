@@ -33,6 +33,7 @@ We will use the two pointer technique to reverse each row of the 2D matrix, and 
 Since we are given that cell value can only be either 0 or 1.
 We can use the XOR operation to invert the cell values.
 
+![XOR Operation](xor-table.PNG?raw=true "XOR Operation")
 
 
 ### Implementation 
