@@ -27,7 +27,7 @@ Notes:
 0 <= A[i][j] <= 1
 ```
 ## Approach :
-We will use the two pointer technique to reverse each row of the 2D matrix, and while reversing the rows, at the same time we will invert the 0's to 1's and 1's to 0's
+We will use the `two pointer technique` to reverse each row of the 2D matrix, and while reversing the rows, at the same time we will invert the 0's to 1's and 1's to 0's
 
 ### 💥 XOR 💥 - Inverting cell values
 Since we are given that cell value can only be either 0 or 1.
